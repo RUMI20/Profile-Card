@@ -2,4 +2,4 @@
 Profile-Card using HTML &amp; tailwind css
 
 ## preview
-![WhatsApp Image 2022-12-03 at 16 21 30](https://user-images.githubusercontent.com/110076050/205789209-5b72d269-7b50-40e9-a85b-cd972b098f65.jpeg)
+![Screenshot_20221205_161723](https://user-images.githubusercontent.com/110076050/205789309-bc3b93fc-ee6d-454f-b5ec-d8bc0af4dd3d.png)
